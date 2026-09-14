@@ -29,6 +29,11 @@
 | `context/05-defense.md` | Подготовка защиты, инвентарь доказательств |
 | `context/06-research-indonesia.md` | Индонезийское право, эскалация, контакты органов |
 | `context/07-letters.md` | Шаблоны писем: кому, от чьего имени, когда |
+| **`context/08-akcionernoe-soglashenie.md`** | **Постатейный разбор центрального документа дела** |
+| `context/14-zayavlenie-o-krazhe.md` | Готовое заявление о краже на индонезийском |
+| `context/15-plan-do-25-09.md` | План по дням до явки |
+| `context/16-svideteli.md` | Свидетели: статус de auditu, шаблон заявления |
+| `context/17-yazyk-dogovora-i-perevod.md` | На какие пункты опирается заявитель; роль перевода |
 | `context/12-dopsoglashenie-06-06-2026.md` | Допсоглашение № 1 — сильнейший документ, цепочка по датам |
 | `context/13-proekt-vstrechnogo-zayavleniya.md` | Разбор проекта заявления + исправленный каркас |
 | `context/evidence/` | Протоколы осмотра доказательств |
