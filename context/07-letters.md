@@ -36,54 +36,82 @@
 
 **От кого:** от своего имени, с личной почты.
 
-**Тема:** `Permohonan Konsultasi Hukum — Pemanggilan Kepolisian / Sengketa Investasi`
+**Тема:** `URGENT — Undangan Klarifikasi Polres Gianyar 25.09.2026 / Kriminalisasi Sengketa Perdata`
+
+> ⚠️ Версия от 14.09.2026, заменяет предыдущую. Прежняя редакция содержала
+> неточности: речь идёт не о `surat panggilan`, а об `undangan klarifikasi`,
+> и не о «35% прибыли», а о 35% акций.
 
 ```
 Kepada Yth. Tim Hukum,
 
-Perkenalkan, saya [ФИО ПОЛНОСТЬЮ], warga negara Rusia, pemegang
-[KITAS/VISA — указать тип и номер], berdomisili di Bali sejak [год].
+Perkenalkan, saya MIKHAIL ZAVIALOV, warga negara Rusia, paspor 75 9158895,
+pemegang [KITAS/visa — тип и номер], berdomisili di Bali sejak [год].
 
-Saya membutuhkan pendampingan hukum segera terkait hal berikut:
+Saya membutuhkan pendampingan hukum SEGERA. Jadwal pemeriksaan:
+JUMAT, 25 SEPTEMBER 2026, pukul 09.00 WITA.
 
-1. Saya menerima surat panggilan kepolisian tertanggal [ДАТА], dengan jadwal
-   pemeriksaan pada [ДАТА ЯВКИ].
-2. Dasar pemanggilan diduga berkaitan dengan perjanjian investasi antara saya dan
-   seorang investor asing, yang berinvestasi sebesar IDR 220.000.000 untuk
-   memperoleh 35% dari keuntungan sebuah proyek jasa pencucian helm.
-3. Tidak pernah didirikan badan hukum bersama untuk proyek tersebut.
-4. Sebelum pemanggilan ini, investor menuntut agar saya mengalihkan 100% saham
-   perusahaan pribadi saya kepadanya, disertai ancaman deportasi. Saya menolak,
-   dan menawarkan pengembalian dana investasi secara bertahap — tawaran tersebut
-   ditolak.
-5. Menurut pandangan saya, ini adalah sengketa perdata (wanprestasi) yang
-   dikriminalisasi.
+SITUASI:
 
-Yang saya butuhkan:
-- Pendampingan pada pemeriksaan di kepolisian (Pasal 150 KUHAP)
-- Analisis apakah unsur pidana terpenuhi, atau ini murni ranah perdata
-- Penilaian atas kemungkinan gelar perkara khusus dan/atau praperadilan
-- Penilaian atas kemungkinan laporan balik atas dugaan pemerasan
+1. Saya menerima Undangan Klarifikasi dari Satreskrim Polres Gianyar
+   No. B/1647/IX/RES.1.11./2026/Satreskrim tanggal 8 September 2026.
+   Kedudukan saya: SAKSI. Tahap: penyelidikan (SP.Lidik/321/IX/2026).
 
-Mohon informasi mengenai:
-a) Ketersediaan tim untuk menangani perkara ini dan waktu tercepat untuk bertemu
-b) Struktur biaya (retainer / success fee / per tahapan)
-c) Pengalaman menangani perkara kriminalisasi sengketa perdata dan praperadilan
-d) Nomor Kartu Tanda Pengenal Advokat PERADI dari advokat yang akan menangani
+2. Dugaan tindak pidana: Pasal 492 dan/atau 486 atau 488 UU No. 1 Tahun 2023,
+   dilaporkan oleh ALEXEY PROKOFYEV melalui Surat Pengaduan Masyarakat
+   No. 234/IX/2026 tanggal 4 September 2026. Locus/tempus yang disebut:
+   2 Juni 2025 pukul 17.00 di Umah Kendra Villa, Ubud — yaitu tanggal
+   penandatanganan perjanjian di antara kami.
 
-Seluruh dokumen (perjanjian, surat panggilan, korespondensi) siap saya serahkan
-pada pertemuan pertama.
+3. Dasar hubungan: Perjanjian Pemegang Saham tanggal 2 Juni 2025.
+   Saya 65% saham, pelapor 35%. Objek terbatas pada usaha pencucian helm.
+   Badan hukum bersama tidak pernah didirikan. Pasal 4.2-4.3 perjanjian
+   mengatur dana sebagai Participating Preferred Equity, yang pengembaliannya
+   bersumber dari 50% arus kas bebas — bersifat bersyarat, bukan utang jatuh tempo.
 
-Mohon balasan secepatnya mengingat keterbatasan waktu.
+4. Sebelum pelaporan, pelapor menuntut pengalihan 100% saham perusahaan
+   pribadi saya, disertai ancaman deportasi dan penyebutan koneksi di
+   keimigrasian serta pihak kriminal. Saya menolak. Saya menawarkan
+   pengembalian dana IDR 220.000.000 secara bertahap — DITOLAK oleh pelapor.
+
+5. Pada 6 Juni 2026 saya menyampaikan Adendum No. 1 secara langsung dan
+   melalui email, yang menolak pengalihan saham. DUA HARI kemudian,
+   8 Juni 2026, aset promosi perusahaan saya dicuri, terekam CCTV.
+   Laporan ke polisi baru diajukan pelapor tiga bulan setelahnya.
+
+6. Pelapor dan rekannya berstatus visa remote worker.
+
+7. Pandangan saya: ini sengketa perdata (wanprestasi) yang dikriminalisasi.
+   Pasal 9.2 perjanjian menyepakati penyelesaian sengketa MELALUI PENGADILAN.
+
+YANG SAYA BUTUHKAN:
+- Pendampingan pada pemeriksaan 25 September (Pasal 150 KUHAP)
+- Analisis unsur pidana vs. ranah perdata
+- Permohonan salinan Surat Pengaduan No. 234/IX/2026
+- Penilaian atas laporan balik (Pasal 482/483 dan 476 UU 1/2023)
+- Penilaian atas gelar perkara khusus dan/atau praperadilan
+
+MOHON INFORMASI:
+a) Ketersediaan dan waktu tercepat untuk bertemu — sebelum 25 September
+b) Struktur biaya (retainer / per tahapan / success fee)
+c) Pengalaman menangani kriminalisasi sengketa perdata dan praperadilan
+d) Nomor Kartu Tanda Pengenal Advokat PERADI
+
+Seluruh dokumen siap saya serahkan pada pertemuan pertama: perjanjian,
+adendum, undangan klarifikasi, rekaman CCTV, korespondensi.
+
+Mengingat tenggat waktu, mohon balasan secepatnya.
 
 Hormat saya,
-[ФИО]
-[телефон / WhatsApp]
-[email]
+MIKHAIL ZAVIALOV
++62 859 6064 4010
+zma15051984@gmail.com
 ```
 
-**Перевод сути:** представляюсь, излагаю фабулу в шести пунктах, говорю что нужно,
-задаю четыре вопроса включая номер удостоверения адвоката PERADI, прошу срочный ответ.
+**Почему так:** названы точные номера документов, статус свидетеля, дата
+явки и ключевая цепочка 06.06 → 08.06 → 04.09. Адвокат по первым строкам
+понимает, что дело подготовлено и клиент разобрался — это влияет и на
+скорость ответа, и на смету.
 
 > Рассылайте **параллельно** в 5–8 адресов, не по одному. Отвечают не все и не быстро.
 
