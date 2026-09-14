@@ -30,6 +30,9 @@
 | `context/06-research-indonesia.md` | Индонезийское право, эскалация, контакты органов |
 | `context/07-letters.md` | Шаблоны писем: кому, от чьего имени, когда |
 | **`context/08-akcionernoe-soglashenie.md`** | **Постатейный разбор центрального документа дела** |
+| `context/09-pismo-policii.md` | Разбор письма Polres Gianyar от 08.09.2026 |
+| `context/10-paket-dlya-advokata.md` | Пакет для адвоката, рус. + инд. |
+| `context/11-plan-eskalacii.md` | План эскалации, контакты надзорных органов |
 | `context/14-zayavlenie-o-krazhe.md` | Готовое заявление о краже на индонезийском |
 | `context/15-plan-do-25-09.md` | План по дням до явки |
 | `context/16-svideteli.md` | Свидетели: статус de auditu, шаблон заявления |
