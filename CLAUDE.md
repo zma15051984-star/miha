@@ -41,6 +41,7 @@
 | `context/13-proekt-vstrechnogo-zayavleniya.md` | Разбор проекта заявления + исправленный каркас |
 | `context/30-dokument-dlya-advokata.md` | Документ для передачи адвокату, рус. + инд. |
 | `context/31-ocenka-predlozheniya-jumena.md` | Разбор предложения JUMENA & PARTNERS от 15.09 |
+| `context/32-voprosy-advokatu-jumena.md` | 26 вопросов адвокату, рус. + инд., готовые к отправке |
 | `context/evidence/` | Протоколы осмотра доказательств |
 | `context/inbox/` | Присланные документы |
 
