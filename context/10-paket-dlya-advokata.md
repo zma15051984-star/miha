@@ -8,6 +8,78 @@
 
 ---
 
+---
+
+# ⚡ ПОРУЧЕНИЕ ДОВЕРИТЕЛЯ
+
+Прочитать первым. Определяет приоритеты работы.
+
+## Цель
+
+**Доверителю не требуется имущественная компенсация.**
+
+Цель — **прекращение противоправного давления и наступление
+ответственности для лиц, его оказывавших.** Взыскание денежных средств
+самостоятельной ценности не имеет и рассматривается только как
+факультативный инструмент.
+
+Прошу строить позицию исходя из этого, а не из задачи возмещения.
+
+## 🔴 Критическое требование по срокам
+
+**Встречное заявление должно быть подано ДО 25 сентября 2026 года.**
+
+То есть **до** того, как доверитель явится на опрос по обращению
+Прокофьева.
+
+### Почему это принципиально
+
+| Если заявление подано до 25.09 | Если подано после |
+|---|---|
+| Доверитель приходит на опрос **как заявитель по собственному делу**, имея на руках `STTLP` | Приходит **только как опрашиваемый** |
+| Его позиция **зафиксирована официально до дачи показаний** | Позиция существует лишь в его пояснениях |
+| Подача **не связана** с содержанием его показаний | Может быть подана как реакция на опрос |
+| Проверка по его заявлению уже начата | Начинается позже, в невыгодной последовательности |
+
+**Приемлемый крайний срок подачи — вторник 23 сентября 2026**, чтобы
+`STTLP` был получен до явки.
+
+## Приоритеты работы, по порядку
+
+| № | Задача | Срок |
+|---|---|---|
+| **1** | Договор, `Surat Kuasa Khusus`, **запрос копии `Surat Pengaduan` № 234/IX/2026** | немедленно |
+| **2** | **Заявление о краже** (ст. 476, при повреждении — 521) | до 22.09 |
+| **3** | **Встречное заявление** (ст. 482) в **Polda Bali** | **до 23.09** |
+| **4** | Подготовка к опросу, репетиция ответов | 22–24.09 |
+| **5** | Сопровождение на опросе (ст. 150 KUHAP) | **25.09, 09:00** |
+| **6** | Обращение в иммиграцию по статусу терлапоров | после приведения компании в соответствие |
+| **7** | Гражданский иск | факультативно, позже |
+
+## Позиция доверителя по иммиграционной линии
+
+Доверитель **осведомлён**, что обращение в иммиграцию по визовому статусу
+терлапоров может повлечь проверку его собственной компании
+PT IMPRESS YOURSELF CORP, и **принимает этот риск**.
+
+Одновременно он **приступает к оформлению трудовых отношений с
+персоналом, регистрации в `BPJS` и приведению в порядок налоговой
+отчётности** начиная с недели от 15.09.2026.
+
+Прошу оценить: **достаточный срок** для приведения компании в
+соответствие и **безопасный момент** для подачи иммиграционного обращения.
+
+## Что доверитель просит не делать
+
+- Не заявлять письменно о подкупе сотрудников полиции — доказательств нет
+- Не утверждать в документах как установленный факт причастность
+  терлапоров к вывозу имущества; формулировать как **основание для
+  проверки причастности**
+- Не предлагать и не участвовать в неформальном урегулировании с
+  правоохранительными органами
+
+---
+
 # ЧАСТЬ I — РУССКАЯ ВЕРСИЯ
 
 ## 1. Суть за тридцать секунд
@@ -129,17 +201,66 @@ Umah Kendra Villa, Убуд** — дата и место подписания с
 
 ## 10. Что требуется от адвоката
 
-1. Сопровождение на явке 25.09 (ст. 150 KUHAP)
-2. Запрос копии `Surat Pengaduan` № 234/IX/2026 и приложенного перевода
-3. Анализ: уголовный состав или гражданско-правовая плоскость
-4. Оценка `gelar perkara khusus` и `praperadilan`
-5. Встречное заявление: `pemerasan` (ст. 482/483) и `pencurian` (ст. 476)
-6. Оценка рисков структуры владения — **до** допроса
-7. Смета и этапы
+**Порядок и сроки — в разделе «Поручение доверителя» в начале документа.**
+
+1. **Встречное заявление по ст. 482 — подать до 23.09**, до явки
+2. **Заявление о краже** по ст. 476/521 — до 22.09
+3. Запрос копии `Surat Pengaduan` № 234/IX/2026 и приложенного перевода
+4. Сопровождение на явке 25.09 (ст. 150 KUHAP) и подготовка к ней
+5. Анализ: уголовный состав или гражданско-правовая плоскость
+6. Оценка `gelar perkara khusus` и `praperadilan`
+7. Оценка достаточности имеющегося для **возбуждения проверки** по ст. 482,
+   даже при невысокой перспективе приговора
+8. Иммиграционная линия: порядок, сроки, момент подачи
+9. Экспозиция PT IMPRESS YOURSELF CORP и срок приведения в соответствие
+10. Смета и этапы
 
 ---
 
 # BAGIAN II — RINGKASAN DALAM BAHASA INDONESIA
+## ⚡ INSTRUKSI KLIEN — MOHON DIBACA PERTAMA
+
+### Tujuan
+
+**Klien TIDAK menuntut ganti rugi materiil.**
+
+Tujuan klien adalah **menghentikan tekanan melawan hukum dan agar pihak
+yang melakukannya mempertanggungjawabkan perbuatannya.** Pemulihan
+kerugian uang bukan tujuan utama dan hanya bersifat opsional.
+
+### 🔴 TENGGAT YANG BERSIFAT KRITIS
+
+**Laporan balik harus sudah diajukan SEBELUM tanggal 25 September 2026,**
+yaitu sebelum klien menghadiri klarifikasi atas pengaduan Terlapor.
+
+Alasannya: dengan demikian klien hadir pada pemeriksaan **selaku Pelapor
+dalam perkaranya sendiri, dengan STTLP di tangan**, dan posisinya tercatat
+secara resmi **sebelum** ia memberikan keterangan.
+
+**Batas waktu yang dapat diterima untuk pengajuan: Selasa, 23 September 2026.**
+
+### Prioritas
+
+| No | Tugas | Tenggat |
+|---|---|---|
+| 1 | Surat Kuasa Khusus; **permohonan salinan Surat Pengaduan No. 234/IX/2026** | segera |
+| 2 | **Laporan pencurian** (Pasal 476, dan/atau 521) | s/d 22.09 |
+| 3 | **Laporan balik pemerasan** (Pasal 482) ke **Polda Bali** | **s/d 23.09** |
+| 4 | Persiapan menghadapi pemeriksaan | 22–24.09 |
+| 5 | Pendampingan pada pemeriksaan (Pasal 150 KUHAP) | **25.09, 09.00** |
+| 6 | Pelaporan keimigrasian atas status Terlapor | setelah perusahaan dirapikan |
+| 7 | Gugatan perdata | opsional, kemudian |
+
+### Mengenai jalur keimigrasian
+
+Klien **menyadari** bahwa pelaporan status keimigrasian Terlapor dapat
+memicu pemeriksaan terhadap perusahaannya sendiri, dan **menerima risiko
+tersebut**. Bersamaan dengan itu, klien mulai **merapikan hubungan kerja
+dengan karyawan, pendaftaran BPJS, dan pelaporan perpajakan** sejak pekan
+tanggal 15 September 2026.
+
+Mohon penilaian mengenai **waktu yang dibutuhkan** untuk merapikan
+perusahaan dan **waktu yang aman** untuk mengajukan laporan keimigrasian.
 
 ## Ringkasan
 
