@@ -39,6 +39,8 @@
 | `context/17-yazyk-dogovora-i-perevod.md` | На какие пункты опирается заявитель; роль перевода |
 | `context/12-dopsoglashenie-06-06-2026.md` | Допсоглашение № 1 — сильнейший документ, цепочка по датам |
 | `context/13-proekt-vstrechnogo-zayavleniya.md` | Разбор проекта заявления + исправленный каркас |
+| `context/30-dokument-dlya-advokata.md` | Документ для передачи адвокату, рус. + инд. |
+| `context/31-ocenka-predlozheniya-jumena.md` | Разбор предложения JUMENA & PARTNERS от 15.09 |
 | `context/evidence/` | Протоколы осмотра доказательств |
 | `context/inbox/` | Присланные документы |
 
