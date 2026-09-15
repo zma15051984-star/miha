@@ -258,11 +258,23 @@ VI. PERMOHONAN
     ([NAMA]), S.H.
     KTPA PERADI No. [NOMOR]
 
-TEMBUSAN:
-1. Kepala Kepolisian Negara Republik Indonesia (Kapolri) di Jakarta;
-2. Kabareskrim Polri di Jakarta;
-3. Kepala Kejaksaan Tinggi Bali;
-4. Kedutaan Besar Federasi Rusia di Jakarta.
+TEMBUSAN disampaikan kepada Yth.:
+ 1. Kepala Kepolisian Negara Republik Indonesia (Kapolri) di Jakarta;
+ 2. Kepala Badan Reserse Kriminal Polri (Kabareskrim) di Jakarta;
+ 3. Inspektorat Pengawasan Daerah (Irwasda) Polda Bali;
+ 4. Komisi Kepolisian Nasional (Kompolnas) di Jakarta;
+ 5. Ombudsman Republik Indonesia Perwakilan Provinsi Bali;
+ 6. Kepala Kejaksaan Tinggi Provinsi Bali;
+ 7. Gubernur Bali;
+ 8. Bupati Gianyar;
+ 9. Menteri Investasi/Kepala BKPM Republik Indonesia di Jakarta;
+10. Kepala DPMPTSP Provinsi Bali;
+11. Kedutaan Besar Federasi Rusia di Jakarta;
+12. Konsulat Jenderal Federasi Rusia di Denpasar;
+13. Arsip.
+
+Обоснование каждого адресата и порядок сбора `tanda terima` —
+`context/26-spisok-rassylki-tembusan.md`.
 ```
 
 ---

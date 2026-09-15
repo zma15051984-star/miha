@@ -44,6 +44,29 @@
 **Приемлемый крайний срок подачи — вторник 23 сентября 2026**, чтобы
 `STTLP` был получен до явки.
 
+## 🔴 Требование о публичности: рассылка копий
+
+Заявление **не должно существовать только в одной папке в отделении.**
+
+**Задача адвоката:** направить копии заявления всем адресатам согласно
+перечню `Tembusan` и **получить по каждому `tanda terima`** — отметку о
+принятии с входящим номером, датой, подписью и печатью.
+
+**Перечень адресатов — `context/26-spisok-rassylki-tembusan.md`**, волна 1
+из двенадцати позиций: Kapolri, Kabareskrim, Irwasda Polda Bali, Kompolnas,
+Ombudsman Bali, Kajati Bali, Gubernur Bali, Bupati Gianyar, Menteri
+Investasi/BKPM, DPMPTSP Bali, Посольство и Генконсульство РФ.
+
+**Сканы всех подтверждений передать доверителю единым комплектом
+не позднее 24.09.2026.**
+
+> Список без подтверждений получения юридического значения не имеет.
+> Значение имеет **факт доставки**, а не упоминание адресата в конце
+> документа. Это ключевая часть поручения.
+
+Адресаты по иммиграционной линии направляются **волной 2**, после
+приведения компании в соответствие, по отдельному согласованию.
+
 ## Приоритеты работы, по порядку
 
 | № | Задача | Срок |
@@ -52,9 +75,10 @@
 | **2** | **Заявление о краже** (ст. 476, при повреждении — 521) | до 22.09 |
 | **3** | **Встречное заявление** (ст. 482) в **Polda Bali** | **до 23.09** |
 | **4** | Подготовка к опросу, репетиция ответов | 22–24.09 |
-| **5** | Сопровождение на опросе (ст. 150 KUHAP) | **25.09, 09:00** |
-| **6** | Обращение в иммиграцию по статусу терлапоров | после приведения компании в соответствие |
-| **7** | Гражданский иск | факультативно, позже |
+| **5** | **Рассылка копий по перечню `Tembusan` + сбор `tanda terima`** | **до 24.09** |
+| **6** | Сопровождение на опросе (ст. 150 KUHAP) | **25.09, 09:00** |
+| **7** | Обращение в иммиграцию по статусу терлапоров | после приведения компании в соответствие |
+| **8** | Гражданский иск | факультативно, позже |
 
 ## Позиция доверителя по иммиграционной линии
 
@@ -204,7 +228,8 @@ Umah Kendra Villa, Убуд** — дата и место подписания с
 **Порядок и сроки — в разделе «Поручение доверителя» в начале документа.**
 
 1. **Встречное заявление по ст. 482 — подать до 23.09**, до явки
-2. **Заявление о краже** по ст. 476/521 — до 22.09
+2. **Рассылка копий по перечню `Tembusan` и сбор `tanda terima`** — до 24.09
+3. **Заявление о краже** по ст. 476/521 — до 22.09
 3. Запрос копии `Surat Pengaduan` № 234/IX/2026 и приложенного перевода
 4. Сопровождение на явке 25.09 (ст. 150 KUHAP) и подготовка к ней
 5. Анализ: уголовный состав или гражданско-правовая плоскость
@@ -239,6 +264,26 @@ secara resmi **sebelum** ia memberikan keterangan.
 
 **Batas waktu yang dapat diterima untuk pengajuan: Selasa, 23 September 2026.**
 
+### 🔴 Mengenai penyebaran tembusan
+
+Laporan **tidak boleh hanya berada pada satu berkas di satu kantor.**
+
+**Tugas kuasa hukum:** menyampaikan tembusan laporan kepada seluruh
+instansi dalam daftar dan **memperoleh TANDA TERIMA dari masing-masing** —
+nomor agenda, tanggal, tanda tangan dan stempel penerima.
+
+Daftar tembusan gelombang I (12 instansi): Kapolri; Kabareskrim Polri;
+Irwasda Polda Bali; Kompolnas; Ombudsman RI Perwakilan Bali; Kajati Bali;
+Gubernur Bali; Bupati Gianyar; Menteri Investasi/Kepala BKPM; DPMPTSP
+Provinsi Bali; Kedutaan Besar Federasi Rusia di Jakarta; Konsulat Jenderal
+Federasi Rusia di Denpasar.
+
+**Seluruh tanda terima dipindai dan diserahkan kepada klien paling lambat
+24 September 2026.**
+
+Instansi keimigrasian disampaikan pada **gelombang II**, setelah
+perusahaan klien dirapikan, atas persetujuan tersendiri.
+
 ### Prioritas
 
 | No | Tugas | Tenggat |
@@ -247,9 +292,10 @@ secara resmi **sebelum** ia memberikan keterangan.
 | 2 | **Laporan pencurian** (Pasal 476, dan/atau 521) | s/d 22.09 |
 | 3 | **Laporan balik pemerasan** (Pasal 482) ke **Polda Bali** | **s/d 23.09** |
 | 4 | Persiapan menghadapi pemeriksaan | 22–24.09 |
-| 5 | Pendampingan pada pemeriksaan (Pasal 150 KUHAP) | **25.09, 09.00** |
-| 6 | Pelaporan keimigrasian atas status Terlapor | setelah perusahaan dirapikan |
-| 7 | Gugatan perdata | opsional, kemudian |
+| 5 | **Penyebaran tembusan + pengumpulan tanda terima** | **s/d 24.09** |
+| 6 | Pendampingan pada pemeriksaan (Pasal 150 KUHAP) | **25.09, 09.00** |
+| 7 | Pelaporan keimigrasian atas status Terlapor | setelah perusahaan dirapikan |
+| 8 | Gugatan perdata | opsional, kemudian |
 
 ### Mengenai jalur keimigrasian
 
