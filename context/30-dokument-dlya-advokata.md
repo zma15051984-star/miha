@@ -254,10 +254,30 @@ Google Drive от 02.06.2025 и 31.05.2026.
 6. **Оформление персонала и налоговая отчётность** PT IMPRESS YOURSELF
    CORP приводятся в соответствие начиная с 15.09.2026
 
-**Аудиозаписи трёх встреч**, сделанные доверителем как участником
-разговора, содержат требование о передаче 100% долей и угрозы. Доверитель
-осведомлён о **Putusan MK № 20/PUU-XIV/2016**. Записи **не
-распространялись**. Решение об использовании — за адвокатом.
+### 🔴 Аудиозаписи встреч у доверителя отсутствуют
+
+Содержание трёх встреч — требование о передаче 100% долей, ссылка на
+связи в криминальной среде, угроза депортацией — **подтверждается только
+объяснениями доверителя**. Звукозаписей нет, и доверитель их не делал.
+
+Если аудиозаписи существуют, они могут находиться **у противной
+стороны**. Доверитель просит рассмотреть возможность их истребования
+(ст. 7 (1) KUHAP) **в полном объёме**, а не выборочными фрагментами.
+
+### 🔴 Возможные показания супруги доверителя
+
+Наталья Завьялова — **соучредитель PT IMPRESS YOURSELF CORP**, в
+настоящее время находится **на стороне заявителя**, проживает отдельно,
+брак не расторгнут. Обладает внутренним знанием о движении средств,
+доступах и содержании договорённостей.
+
+Доверитель исходит из того, что **давление будет вестись с двух
+сторон**, и часть обстоятельств может быть подтверждена её показаниями.
+
+**Вопрос адвокату:** каков процессуальный статус показаний супруги —
+ст. 168–169 KUHAP относили супруга к лицам, которые вправе отказаться от
+дачи показаний, а при согласии сторон могут быть допрошены. **Как этот
+институт урегулирован в UU № 20/2025 (новый KUHAP)?**
 
 ---
 
@@ -290,9 +310,10 @@ Google Drive от 02.06.2025 и 31.05.2026.
 5. Как заявить **взаимоисключаемость** ст. 492 и 486?
 6. Работает ли п. 9.2 против уголовного порядка в местной практике?
 7. Перспективы `gelar perkara khusus` и `praperadilan`?
-8. Как распорядиться аудиозаписями после MK 20/PUU-XIV/2016?
-9. Возможно ли истребовать у заявителя **полные аудиозаписи** и **журналы
-   изменений** финансовых файлов?
+8. Каков статус показаний супруги по ст. 168–169 KUHAP и по новому
+   KUHAP (UU № 20/2025)?
+9. Возможно ли истребовать у заявителя **аудиозаписи, если они у него
+   есть, в полном объёме** и **журналы изменений** финансовых файлов?
 10. Гражданский иск — вместо или наряду с уголовным заявлением?
 11. Экспозиция PT IMPRESS YOURSELF CORP и срок приведения в соответствие?
 12. Номер `KTPA PERADI`, смета и этапы работы?
@@ -556,11 +577,32 @@ tangkapan layar.
 6. **Perapian hubungan kerja karyawan dan perpajakan** PT IMPRESS YOURSELF
    CORP dimulai sejak 15-09-2026
 
-**Rekaman audio tiga pertemuan** dibuat klien selaku pihak dalam
-percakapan, memuat tuntutan pengalihan 100% saham dan ancaman. Klien
-memahami implikasi **Putusan MK No. 20/PUU-XIV/2016**. Rekaman **tidak
-pernah disebarluaskan**. Keputusan penggunaannya diserahkan kepada kuasa
-hukum.
+### 🔴 Klien TIDAK memiliki rekaman audio pertemuan
+
+Isi ketiga pertemuan — tuntutan pengalihan 100% saham, rujukan kepada
+jaringan kriminal, dan ancaman deportasi — **hanya didukung oleh
+keterangan klien sendiri**. Klien tidak pernah membuat rekaman suara.
+
+Apabila rekaman semacam itu ada, kemungkinan berada **pada pihak
+Terlapor**. Klien memohon dipertimbangkan permintaan penyerahan rekaman
+tersebut **secara utuh** (Pasal 7 ayat (1) KUHAP), bukan berupa
+potongan-potongan pilihan.
+
+### 🔴 Kemungkinan keterangan istri klien
+
+Natalia Zavialova adalah **salah satu pendiri PT IMPRESS YOURSELF CORP**,
+saat ini **berada di pihak Pelapor**, tinggal terpisah, perkawinan belum
+diputus. Ia memiliki pengetahuan internal mengenai arus dana, akses, dan
+isi kesepakatan.
+
+Klien memperkirakan tekanan akan datang **dari dua arah**, dan sebagian
+keadaan dapat dikuatkan melalui keterangannya.
+
+**Pertanyaan kepada kuasa hukum:** bagaimana kedudukan keterangan istri —
+Pasal 168–169 KUHAP (lama) menempatkan suami/istri sebagai pihak yang
+dapat mengundurkan diri sebagai saksi, dan dapat didengar apabila para
+pihak menyetujui. **Bagaimana pengaturannya dalam UU No. 20 Tahun 2025
+(KUHAP baru)?**
 
 ---
 
@@ -596,8 +638,10 @@ dirapikan.
 6. Bagaimana kekuatan Pasal 9.2 Perjanjian terhadap penggunaan jalur pidana
    dalam praktik?
 7. Bagaimana prospek **gelar perkara khusus** dan **praperadilan**?
-8. Bagaimana memperlakukan rekaman audio pasca Putusan MK 20/PUU-XIV/2016?
-9. Dapatkah dimohonkan **rekaman audio utuh** dari Terlapor I dan **log
+8. Bagaimana kedudukan keterangan istri menurut Pasal 168–169 KUHAP dan
+   menurut KUHAP baru (UU No. 20 Tahun 2025)?
+9. Dapatkah dimohonkan **rekaman audio secara utuh, apabila ada pada
+   Terlapor I**, dan **log
    perubahan** berkas keuangan?
 10. Gugatan perdata — sebagai pengganti atau pelengkap laporan pidana?
 11. Bagaimana eksposur PT IMPRESS YOURSELF CORP dan berapa lama waktu
