@@ -43,6 +43,7 @@
 | `context/31-ocenka-predlozheniya-jumena.md` | Разбор предложения JUMENA & PARTNERS от 15.09 |
 | `context/32-voprosy-advokatu-jumena.md` | 26 вопросов адвокату, рус. + инд., готовые к отправке |
 | **`context/33-kuhap-2025-chto-menyaetsya.md`** | **Разбор нового KUHAP: что меняется в деле** |
+| `context/34-analiz-otvetov-jumena.md` | Разбор ответов адвоката, развилка по срокам, 2-й круг вопросов |
 | `context/evidence/` | Протоколы осмотра доказательств |
 | `context/inbox/` | Присланные документы |
 
