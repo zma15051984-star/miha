@@ -156,7 +156,7 @@ KUHAP 2025** — объективный критерий, которого в KU
 | Шаг | Срок |
 |---|---|
 | 1. Подписать `surat kuasa` (после ответов на A2, A4, B1) | 17–18.09 |
-| 2. Адвокат подаёт **письменное ходатайство о переносе** | **не позже 22.09** |
+| 2. **Ходатайство о переносе** — адвокат, если подписались; **иначе Михаил сам** | **не позже 22.09** |
 | 3. Получить новую дату — ориентировочно **02.10** | 22–24.09 |
 | 4. Использовать неделю: договоры с персоналом, BPJS, аренда | 18–30.09 |
 | 5. Подать заявление по **ст. 482** до новой даты | до 01.10 |
@@ -183,13 +183,155 @@ KUHAP 2025** — объективный критерий, которого в KU
 
 ---
 
-# 5. ЧТО СПРОСИТЬ У АДВОКАТА
+# 5. КТО ПОДАЁТ ХОДАТАЙСТВО О ПЕРЕНОСЕ
 
-**D1.** Подавали ли вы уже ходатайство о переносе? Если нет — когда, и
-что нужно от меня?
+## 🔴 Поправка
 
-**D2.** Можете ли вы явиться **один** 25.09 с ходатайством, если
-перенос не успеют рассмотреть?
+Ранее в этом файле вопрос был сформулирован как «подавал ли адвокат
+ходатайство». **Это было неверно.** `Surat kuasa` не подписан, адвокат
+полномочий не имеет и от имени Михаила совершить не может ничего.
+
+## Ходатайство о переносе Михаил вправе подать сам
+
+Обращение к полиции по поводу **собственного** приглашения — обычное
+действие, доверенности для него не требуется. Это не процессуальный
+документ по делу, а просьба о переносе даты.
+
+**И это развязывает два вопроса.** Выбор адвоката может занять ещё
+несколько дней; перенос ждать не может — до явки **9 дней**.
+
+## Основание для просьбы — сильное и честное
+
+**Pasal 143 huruf b KUHAP 2025:** свидетель вправе
+`memilih, menghubungi, dan mendapat pendampingan Advokat dalam setiap
+pemeriksaan` — выбрать, связаться и получить **сопровождение адвоката
+на каждом опросе**.
+
+Формулировка просьбы: **«нахожусь в процессе заключения соглашения с
+адвокатом и прошу дать возможность явиться в его сопровождении».**
+
+Это не уклонение. Это **реализация прямо закреплённого права** — и
+такой мотив читается противоположно молчаливой неявке.
+
+## Развилка по датам
+
+| Условие | Кто подаёт |
+|---|---|
+| `Surat kuasa` подписан **до 18.09** | Подаёт **адвокат** |
+| К 18.09 не подписан | **Михаил подаёт сам, не позже 22.09** |
+
+Ждать дольше 22.09 нельзя: ходатайство, поданное накануне, выглядит как
+попытка сорвать явку.
+
+## Как подавать
+
+- **Нарочно**, в канцелярию Polres Gianyar
+- Два экземпляра: один сдать, **на втором получить отметку** — входящий
+  номер, дата, подпись, печать
+- Экземпляр с отметкой **сфотографировать сразу**
+- Если нарочно не получается — **заказным письмом** с уведомлением
+- **Новую дату требовать письменно.** Устное «приходите позже» —
+  не документ
+
+---
+
+# 6. ТЕКСТ ХОДАТАЙСТВА
+
+## Индонезийский — отправлять как есть
+
+Kepada Yth.
+**KEPALA KEPOLISIAN RESOR GIANYAR**
+u.p. **Kasat Reskrim Polres Gianyar**
+di Gianyar
+
+**Perihal: Permohonan Penjadwalan Ulang Undangan Klarifikasi**
+
+Dengan hormat,
+
+Yang bertanda tangan di bawah ini:
+
+Nama: **MIKHAIL ZAVIALOV**
+Kewarganegaraan: Federasi Rusia
+Nomor Paspor / ITAS: _______________
+Alamat: _______________
+Nomor telepon: _______________
+
+Sehubungan dengan **Surat Undangan Klarifikasi Nomor
+B/1647/IX/RES.1.11./2026/Satreskrim** tertanggal 8 September 2026, yang
+menjadwalkan kehadiran saya pada **hari Jumat, 25 September 2026 pukul
+09.00 WIB**, dengan ini saya sampaikan hal-hal sebagai berikut:
+
+1. Saya **menyatakan kesediaan penuh untuk hadir dan memberikan
+   keterangan** serta bersikap kooperatif dalam proses ini.
+
+2. Saat ini saya **sedang dalam proses menunjuk penasihat hukum**.
+   Berdasarkan **Pasal 143 huruf b Undang-Undang Nomor 20 Tahun 2025
+   tentang Hukum Acara Pidana**, saksi berhak memilih, menghubungi, dan
+   mendapat pendampingan Advokat dalam setiap pemeriksaan.
+
+3. Sebagai warga negara asing, saya juga memerlukan pendampingan
+   penerjemah sebagaimana dimaksud dalam **Pasal 143 huruf e**
+   undang-undang yang sama.
+
+Berdasarkan hal tersebut, dengan segala hormat saya memohon agar
+**jadwal klarifikasi dapat diundur**, sehingga saya dapat hadir
+didampingi penasihat hukum. Saya mengusulkan pelaksanaan pada
+**_______________ 2026** atau pada tanggal lain yang Bapak tentukan.
+
+Saya memohon agar **penjadwalan ulang disampaikan secara tertulis**
+kepada saya.
+
+Demikian permohonan ini saya sampaikan. Atas perhatian dan kebijaksanaan
+Bapak, saya ucapkan terima kasih.
+
+Gianyar, _____ September 2026
+Hormat saya,
+
+**MIKHAIL ZAVIALOV**
+
+*Tembusan: arsip.*
+
+## Русский перевод — для понимания
+
+> Начальнику Polres Gianyar, вниманию Kasat Reskrim.
+> **Ходатайство о переносе даты кларификации.**
+>
+> В связи с приглашением № B/1647/IX/RES.1.11./2026/Satreskrim от
+> 08.09.2026 на 25.09.2026, 09:00, сообщаю:
+>
+> 1. **Подтверждаю полную готовность явиться, дать пояснения и
+>    содействовать** проверке.
+> 2. В настоящее время **нахожусь в процессе заключения соглашения с
+>    адвокатом**. Согласно **ст. 143 п. b UU № 20/2025**, свидетель
+>    вправе выбрать, связаться и получить сопровождение адвоката на
+>    каждом опросе.
+> 3. Как иностранный гражданин нуждаюсь также в переводчике —
+>    **ст. 143 п. e** того же закона.
+>
+> Прошу **перенести дату**, чтобы явиться в сопровождении адвоката.
+> Предлагаю ___ или иную дату по вашему усмотрению. Прошу сообщить
+> новую дату **письменно**.
+
+## Что заполнить перед подачей
+
+- [ ] Номер паспорта и ITAS
+- [ ] Адрес проживания и телефон
+- [ ] **Предлагаемая дата** — с запасом, ориентировочно **8–10.10.2026**
+- [ ] Дата подачи
+
+> Предлагать дату «через неделю» не стоит. Адвокат сказал — обычно
+> неделя; просить надо больше, чтобы после торга осталось достаточно.
+
+---
+
+# 7. ЧТО СПРОСИТЬ У АДВОКАТА
+
+**D1.** Ходатайство о переносе: подаёте его **вы после подписания
+`surat kuasa`**, или мне подать его **самому** уже сейчас? Если вы —
+то к какой дате подпишем соглашение, чтобы успеть до 22.09?
+
+**D2.** Если подам сам — есть ли возражения к тексту и к мотиву
+(ст. 143 п. b, право на сопровождение адвокатом)?
 
 **D3.** Если перенос не дадут — подтверждаете ли вы сопровождение
 25.09 в 09:00?
@@ -201,13 +343,15 @@ KUHAP 2025** — объективный критерий, которого в KU
 
 ## Индонезийский текст
 
-> **D1.** Apakah permohonan penundaan klarifikasi sudah diajukan?
-> Apabila belum, kapan akan diajukan dan apa yang Bapak perlukan dari
-> saya?
+> **D1.** Mengenai permohonan penundaan klarifikasi: apakah **Bapak**
+> yang akan mengajukannya setelah surat kuasa ditandatangani, ataukah
+> sebaiknya **saya ajukan sendiri** sekarang? Apabila Bapak, kapan
+> surat kuasa dapat ditandatangani agar permohonan sempat diajukan
+> sebelum 22 September?
 >
-> **D2.** Dapatkah Bapak hadir **sendiri** pada 25 September dengan
-> membawa permohonan penundaan, apabila permohonan belum sempat
-> diputus?
+> **D2.** Apabila saya ajukan sendiri — apakah Bapak berkeberatan atas
+> isi surat dan atas alasan yang saya gunakan, yaitu hak pendampingan
+> Advokat berdasarkan Pasal 143 huruf b KUHAP 2025?
 >
 > **D3.** Apabila penundaan tidak dikabulkan — mohon konfirmasi
 > pendampingan pada 25 September 2026 pukul 09.00.
