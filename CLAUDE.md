@@ -48,6 +48,7 @@
 | **`context/36-kompaniya-i-opros.md`** | **PMA и опрос: релевантность, «процесс запущен», умолчание vs отрицание** |
 | **`context/37-pravovaya-poziciya-kuhap.md`** | **Краткая правовая позиция по KUHAP 2025 для адвоката, рус. + инд.** |
 | 🔴 **`context/38-svodnyj-dokument.md`** | **СВОДНЫЙ ДОКУМЕНТ — всё дело в одном файле, рус. + инд. Передавать новому адвокату** |
+| **`context/39-poziciya-nichtozhnosti.md`** | **Разбор линии «договор ничтожен»: primair/subsidiair, опора 14** |
 | `context/evidence/` | Протоколы осмотра доказательств |
 | `context/inbox/` | Присланные документы |
 
