@@ -277,6 +277,116 @@ bentuk sebagaimana dianggap perlu oleh PENERIMA KUASA` — «всё, что
 стороне заявителя. Что это меняет в подготовке и целесообразен ли
 перенос моей явки?
 
+
+---
+
+## 13. 🔴 Доверенность будет прочитана следователем — что именно она ему сообщает
+
+Доверенность предъявляется в Polres Gianyar 25.09 и **попадает в
+материалы**. Следователь её прочитает. Значит, её текст — **сообщение**,
+и надо понимать, какое именно.
+
+### Что он прочитает в текущей редакции
+
+| Пункт | Что сообщает следователю |
+|---|---|
+| Преамбула | Прокофьев **обвиняется в принуждении и угрозах** — заявлено прямо |
+| п. **3** | 🔴 Доверитель намерен обращаться в **Kantor Imigrasi и BKPM** |
+| п. **4** | Встречное заявление будет подано, **если не достигнуто мировое соглашение** |
+
+### 🔴 Риск, который надо обсудить до подачи
+
+**Пункт 4 в нынешней формулировке читается так:**
+
+> «Доверитель хочет договориться. Если не договорится — подаст
+> встречное заявление.»
+
+То есть **угроза встречным заявлением как рычаг в переговорах о
+деньгах**. Это ставит под сомнение добросовестность будущего заявления:
+оно будет выглядеть **местью за несостоявшийся мир**, а не
+самостоятельным обращением.
+
+**Без условия читается иначе:** представленное лицо со своими
+самостоятельными требованиями.
+
+> **Это дополнительный и, возможно, главный довод за то, чтобы условие
+> убрать** — помимо тех, что изложены в п. 3.
+
+### 🔴 Второй риск — пункт 3 про иммиграцию
+
+Пункт 3 объявляет о намерении обращаться в **Kantor Imigrasi и BKPM**.
+Следователь, прочитав это, узнаёт две вещи:
+
+1. доверитель будет поднимать вопрос о статусе пребывания;
+2. следовательно, **вопрос о статусе иностранцев в этом деле
+   актуален** — и естественно возникает встречный вопрос **о статусе
+   самого доверителя**.
+
+**Между тем компания приводится в соответствие с 15.09 и процесс не
+завершён** — обновление NIB, трудовые договоры, BPJS. Мы исходили из
+того, что иммиграционная линия запускается **после** приведения
+компании в порядок, именно чтобы не пригласить проверку к себе.
+
+**Объявить эту линию в документе, который ложится в дело за два дня до
+опроса, — возможно, преждевременно.**
+
+### Предложение: разделить доверенности
+
+`Surat kuasa khusus` выдаётся по конкретному предмету, поэтому
+**несколько доверенностей по разным предметам — обычная практика**.
+
+| Доверенность | Предмет | Куда предъявляется |
+|---|---|---|
+| **№ 1** | Сопровождение на кларификации по приглашению B/1647, ходатайства, запросы документов | **В Polres Gianyar 25.09** |
+| **№ 2** | Встречное заявление (482/483, 476, 521), ст. 20, `Tembusan` | Предъявляется **при подаче заявления** |
+| **№ 3** | Обращения в Imigrasi, BKPM, иные органы | Предъявляется **когда линия запускается** |
+
+**Вопросы:**
+- 13.1. 🔴 Не создаёт ли условие «если не достигнуто мировое
+  соглашение» впечатления, что встречное заявление используется как
+  рычаг в переговорах о деньгах?
+- 13.2. 🔴 Целесообразно ли объявлять в предъявляемой полиции
+  доверенности намерение обращаться в **Imigrasi и BKPM**, пока
+  документы компании не приведены в соответствие?
+- 13.3. Возможно ли **разделить доверенности** по предметам, как
+  предложено выше?
+- 13.4. Какой из вариантов вы считаете сильнее — одна широкая
+  доверенность как демонстрация решимости, или раздельные?
+
+### Предлагаемая редакция пункта 4
+
+Взамен нынешней:
+
+> `Mewakili dan/atau mendampingi PEMBERI KUASA untuk membuat dan
+> mengajukan laporan polisi (laporan balik) atas dugaan tindak pidana
+> **pemerasan dan/atau pengancaman (Pasal 482 dan/atau Pasal 483)**,
+> **pencurian (Pasal 476)** dan/atau **perusakan (Pasal 521)**
+> Undang-Undang Nomor 1 Tahun 2023, serta tindak pidana lain yang
+> terkait, terhadap **Sdr. ALEXEY PROKOFYEV dan/atau Sdr. DMITRY
+> BYKOV**, termasuk dalam kaitannya dengan **Pasal 20** Undang-Undang
+> Nomor 1 Tahun 2023 mengenai penyertaan, kepada Polres Gianyar
+> dan/atau Polda Bali, **pada waktu yang ditentukan oleh PEMBERI KUASA,
+> tanpa digantungkan pada tercapai atau tidaknya kesepakatan
+> perdamaian.**`
+
+### Предлагаемый отдельный пункт о мировом соглашении
+
+> `Kesepakatan perdamaian dalam bentuk apa pun, termasuk melalui
+> mekanisme Keadilan Restoratif sebagaimana diatur dalam Pasal 79
+> sampai dengan Pasal 88 Undang-Undang Nomor 20 Tahun 2025, **hanya
+> dapat dibuat setelah memperoleh persetujuan tertulis terlebih dahulu
+> dari PEMBERI KUASA.**`
+
+### ⚠️ И чего доверенность не делает
+
+**Предъявление доверенности не обязывает орган прекратить проверку.**
+Прекращение возможно только по основаниям **Pasal 24 ayat (2)
+KUHAP 2025**, и решение принимает следствие.
+
+Доверенность — **сигнал**, а не рычаг: она показывает, что доверитель
+представлен и готов к активным действиям. Это влияет на восприятие,
+но **не создаёт обязанности** и на такой эффект рассчитывать нельзя.
+
 ---
 ---
 
@@ -558,3 +668,117 @@ tertulis saya (lihat butir 3.4).
 **Pertanyaan 12.1.** Istri saya dipanggil **satu hari sebelum saya** dan
 saat ini berada di pihak Pelapor. Apa pengaruhnya terhadap persiapan,
 dan apakah penundaan kehadiran saya perlu diupayakan?
+
+---
+
+## 13. 🔴 Surat kuasa akan dibaca penyidik — apa yang sebenarnya disampaikannya
+
+Surat kuasa diserahkan di Polres Gianyar pada 25 September dan **masuk
+ke dalam berkas**. Penyidik akan membacanya. Dengan demikian, teksnya
+merupakan sebuah **pesan**, dan perlu dipahami pesan apa yang
+disampaikan.
+
+### Yang akan dibacanya dalam rancangan saat ini
+
+| Butir | Pesan bagi penyidik |
+|---|---|
+| Pembuka | Prokofyev **dituduh melakukan paksaan dan ancaman** — dinyatakan secara tegas |
+| **3** | 🔴 Klien bermaksud melapor kepada **Kantor Imigrasi dan BKPM** |
+| **4** | Laporan balik akan diajukan **apabila perdamaian tidak tercapai** |
+
+### 🔴 Risiko yang perlu dibahas sebelum penyerahan
+
+**Butir 4 dalam rumusan sekarang terbaca sebagai:**
+
+> «Klien ingin berdamai. Apabila tidak tercapai kesepakatan, ia akan
+> mengajukan laporan balik.»
+
+Artinya, **ancaman laporan balik sebagai alat tawar dalam perundingan
+mengenai uang**. Hal ini meragukan iktikad baik laporan yang akan
+diajukan kemudian: laporan itu akan tampak sebagai **pembalasan atas
+gagalnya perdamaian**, bukan sebagai pelaporan yang berdiri sendiri.
+
+**Tanpa syarat tersebut, pembacaannya berbeda:** seorang yang diwakili
+kuasa hukum dengan tuntutan hukumnya sendiri.
+
+> **Ini merupakan alasan tambahan — dan mungkin yang utama — untuk
+> menghapus syarat tersebut**, di samping alasan pada butir 3.
+
+### 🔴 Risiko kedua — butir 3 mengenai keimigrasian
+
+Butir 3 menyatakan maksud untuk melapor kepada **Kantor Imigrasi dan
+BKPM**. Dengan membaca hal itu, penyidik mengetahui dua hal:
+
+1. klien akan mengangkat persoalan status keimigrasian;
+2. dengan demikian, **persoalan status orang asing dalam perkara ini
+   menjadi relevan** — sehingga wajar timbul pertanyaan balik mengenai
+   **status klien sendiri**.
+
+**Sementara itu pembenahan legalitas perseroan baru dimulai sejak 15
+September dan belum selesai** — pembaruan NIB, kontrak kerja karyawan,
+dan BPJS. Pandangan kami adalah bahwa jalur keimigrasian sebaiknya
+ditempuh **setelah** legalitas perseroan dibereskan, justru agar
+pemeriksaan tidak diarahkan kepada klien.
+
+**Menyatakan jalur tersebut dalam dokumen yang masuk berkas dua hari
+sebelum klarifikasi mungkin terlalu dini.**
+
+### Usulan: memisahkan surat kuasa
+
+`Surat kuasa khusus` diberikan untuk objek tertentu, sehingga
+**beberapa surat kuasa untuk objek yang berbeda merupakan praktik yang
+lazim**.
+
+| Surat kuasa | Objek | Diserahkan kepada |
+|---|---|---|
+| **No. 1** | Pendampingan pada klarifikasi atas undangan B/1647, permohonan, permintaan dokumen | **Polres Gianyar, 25 September** |
+| **No. 2** | Laporan balik (482/483, 476, 521), Pasal 20, tembusan | Diserahkan **pada saat pengajuan laporan** |
+| **No. 3** | Pelaporan kepada Imigrasi, BKPM, dan instansi lain | Diserahkan **pada saat jalur tersebut ditempuh** |
+
+**Pertanyaan:**
+- 13.1. 🔴 Apakah syarat «apabila perdamaian tidak tercapai» tidak
+  menimbulkan kesan bahwa laporan balik digunakan sebagai alat tawar
+  dalam perundingan mengenai uang?
+- 13.2. 🔴 Apakah tepat menyatakan maksud melapor kepada **Imigrasi dan
+  BKPM** dalam surat kuasa yang diserahkan kepada kepolisian, selama
+  dokumen perseroan belum dibereskan?
+- 13.3. Apakah **pemisahan surat kuasa** sebagaimana diusulkan di atas
+  dimungkinkan?
+- 13.4. Menurut Bapak, mana yang lebih kuat — satu surat kuasa luas
+  sebagai penunjukan kesiapan, atau surat kuasa yang dipisah?
+
+### Usulan rumusan butir 4
+
+Sebagai pengganti rumusan sekarang:
+
+> `Mewakili dan/atau mendampingi PEMBERI KUASA untuk membuat dan
+> mengajukan laporan polisi (laporan balik) atas dugaan tindak pidana
+> **pemerasan dan/atau pengancaman (Pasal 482 dan/atau Pasal 483)**,
+> **pencurian (Pasal 476)** dan/atau **perusakan (Pasal 521)**
+> Undang-Undang Nomor 1 Tahun 2023, serta tindak pidana lain yang
+> terkait, terhadap **Sdr. ALEXEY PROKOFYEV dan/atau Sdr. DMITRY
+> BYKOV**, termasuk dalam kaitannya dengan **Pasal 20** Undang-Undang
+> Nomor 1 Tahun 2023 mengenai penyertaan, kepada Polres Gianyar
+> dan/atau Polda Bali, **pada waktu yang ditentukan oleh PEMBERI KUASA,
+> tanpa digantungkan pada tercapai atau tidaknya kesepakatan
+> perdamaian.**`
+
+### Usulan butir tersendiri mengenai perdamaian
+
+> `Kesepakatan perdamaian dalam bentuk apa pun, termasuk melalui
+> mekanisme Keadilan Restoratif sebagaimana diatur dalam Pasal 79
+> sampai dengan Pasal 88 Undang-Undang Nomor 20 Tahun 2025, **hanya
+> dapat dibuat setelah memperoleh persetujuan tertulis terlebih dahulu
+> dari PEMBERI KUASA.**`
+
+### ⚠️ Dan apa yang tidak dilakukan surat kuasa
+
+**Penyerahan surat kuasa tidak mewajibkan aparat menghentikan
+penyelidikan.** Penghentian hanya dimungkinkan berdasarkan alasan dalam
+**Pasal 24 ayat (2) KUHAP 2025**, dan keputusannya berada pada penyidik.
+
+Surat kuasa merupakan **sinyal**, bukan alat pemaksa: ia menunjukkan
+bahwa klien diwakili kuasa hukum dan siap mengambil langkah aktif. Hal
+itu memengaruhi persepsi, namun **tidak menimbulkan kewajiban**, dan
+tidak boleh diandalkan untuk menghasilkan efek tersebut.
+
