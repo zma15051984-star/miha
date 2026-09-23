@@ -61,7 +61,8 @@
 | 🔴 **`context/46-supruga-idet-pervoj.md`** | **Супруга вызвана на 24.09, за день до Михаила** |
 | **`context/47-pismo-o-vozvrate.md`** | **Письмо о готовности вернуть средства: разбор + текст, рус. + инд.** |
 | 🔴 **`context/48-razbor-doverennosti.md`** | **Доверенность Damar Wicaksono: что исправить до подписания** |
-| 🔴 **`context/49-zamechaniya-po-doverennosti.md`** | **12 замечаний для юристов, рус. + инд., нумерация совпадает** |
+| 🔴 **`context/49-zamechaniya-po-doverennosti.md`** | **13 замечаний для юристов, рус. + инд., нумерация совпадает** |
+| 🔴 **`context/50-doverennost-revisiya.md`** | **Исправленная доверенность: что изменено, что заполнить** |
 | `context/evidence/` | Протоколы осмотра доказательств |
 | `context/inbox/` | Присланные документы |
 
