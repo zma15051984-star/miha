@@ -195,7 +195,7 @@ Ubud, Kabupaten Gianyar`.
 |---|---|---|
 | **A** | `Umah Kendra Villa, Jalan Penestanan Kaja…` | 🔴 **Адрес заявителя.** Стоит в доверенности **по ошибке** |
 | **B** | `Jalan Pacekan No. 10, Banjar Penestanan Kaja, Desa Sayan, Ubud, Gianyar` | **Ваш адрес по действующему ITAS** |
-| **C** | новый адрес | **Где вы живёте сейчас** |
+| **C** | `Jalan Raya Laplapan No. 23, Banjar Laplapan, Desa Petulu, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571` | **Где вы живёте сейчас** |
 
 > Адрес **A** из доверенности убирается в любом случае. Вопрос только
 > в том, ставить **B** или **C**.
@@ -217,8 +217,12 @@ Ubud, Kabupaten Gianyar`.
 > `Alamat sesuai ITAS : Jalan Pacekan No. 10, Banjar Penestanan Kaja,
 > Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar`
 >
-> `Alamat domisili saat ini : [новый адрес]`
+> `Alamat domisili saat ini : Jalan Raya Laplapan No. 23, Banjar Laplapan, Desa Petulu, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571`
 > `(dalam proses pembaruan data pada Kantor Imigrasi)`
+
+**Оба адреса — в Kecamatan Ubud, Kabupaten Gianyar.** Подведомственность
+Polres Gianyar не меняется, и переезд не может быть истолкован как
+попытка сменить юрисдикцию.
 
 **Почему так:**
 

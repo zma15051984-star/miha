@@ -35,13 +35,20 @@ Kecamatan Ubud, Kabupaten Gianyar`.
 Penestanan Kaja, Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar`.
 
 **Дополнительно:** я меняю место жительства. **Завтра** подписываю
-документы и запускаю процедуру обновления адреса в ITAS. Фактический
-новый адрес предоставлю до подписания доверенности.
+документы и запускаю процедуру обновления адреса в ITAS.
+
+**Новый фактический адрес:**
+**Jalan Raya Laplapan No. 23, Banjar Laplapan, Desa Petulu, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571**
+
+Обращаю внимание: новый адрес находится **в том же Kecamatan Ubud,
+Kabupaten Gianyar** — подведомственность Polres Gianyar не меняется.
 
 **Прошу указать оба адреса:**
 
-> `Alamat sesuai ITAS : [адрес по ITAS]`
-> `Alamat domisili saat ini : [новый фактический]`
+> `Alamat sesuai ITAS : Jalan Pacekan No. 10, Banjar Penestanan Kaja,`
+> `Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar`
+>
+> `Alamat domisili saat ini : Jalan Raya Laplapan No. 23, Banjar Laplapan, Desa Petulu, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571`
 > `(dalam proses pembaruan data pada Kantor Imigrasi)`
 
 **Вопросы:**
@@ -302,12 +309,20 @@ Penestanan Kaja, Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar`.
 
 **Tambahan:** saya sedang pindah tempat tinggal. **Besok** saya
 menandatangani dokumen dan memulai proses pembaruan alamat pada ITAS.
-Alamat domisili yang baru akan saya sampaikan sebelum penandatanganan.
+
+**Alamat domisili yang baru:**
+**Jalan Raya Laplapan No. 23, Banjar Laplapan, Desa Petulu, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571**
+
+Perlu diperhatikan: alamat baru tersebut tetap berada di **Kecamatan
+Ubud, Kabupaten Gianyar** — sehingga wilayah hukum Polres Gianyar tidak
+berubah.
 
 **Mohon dicantumkan kedua alamat:**
 
-> `Alamat sesuai ITAS : [alamat sesuai ITAS]`
-> `Alamat domisili saat ini : [alamat baru]`
+> `Alamat sesuai ITAS : Jalan Pacekan No. 10, Banjar Penestanan Kaja,`
+> `Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar`
+>
+> `Alamat domisili saat ini : Jalan Raya Laplapan No. 23, Banjar Laplapan, Desa Petulu, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571`
 > `(dalam proses pembaruan data pada Kantor Imigrasi)`
 
 **Pertanyaan:**
