@@ -66,7 +66,8 @@
 | 🔴 **`context/51-chto-govorit-25-09.md`** | **Что говорить на опросе 25.09: история, вопросы-ответы, запреты** |
 | `context/evidence/` | Протоколы осмотра доказательств |
 | `context/inbox/` | Присланные документы |
-| `company/hr/` | Кадровые документы PT (договор PM — Oka Sihotang) |
+| `company/00-rekvizity.md` | Реквизиты PT IMPRESS YOURSELF CORP: NPWP, юр. адрес, пробелы |
+| `company/hr/` | Кадровые документы PT (договор PM — Oka Sihotang, вопросы к нему) |
 
 ## Роль «advokat»
 
