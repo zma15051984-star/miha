@@ -12,7 +12,7 @@
 | NPWP16 | 0627 0413 3890 5000 | NPWP |
 | Налоговая | KPP Pratama Badung Selatan | NPWP |
 | Дата регистрации NPWP | 10.02.2023 | NPWP |
-| **Действующий юр. адрес** | **Jalan Penestanan, Desa/Kelurahan Sayan, Kecamatan Ubud, Kabupaten Gianyar, Provinsi Bali** | акт (сиркуляр), п. 2.1 |
+| **Действующий юр. адрес** | **Jalan Penestanan, Desa/Kelurahan Sayan, Kecamatan Ubud, Kabupaten Gianyar, Provinsi Bali** | со слов Михаила; акт (сиркуляр), п. 2.1 — **см. оговорку ниже** |
 | Адрес на карточке NPWP | Jl. Sunset Road No. 99D, Kuta, Kuta, Kab. Badung, Bali | NPWP (**старый**) |
 | NIB | **нет данных** | — |
 | Директор | MIKHAIL ZAVIALOV | со слов; должность (Direktur / Direktur Utama) **не подтверждена** |
@@ -23,6 +23,14 @@
   Сиркуляр утверждает смену местонахождения и адреса; во фрагменте сказано,
   что компания «sekarang berkedudukan di Kabupaten Gianyar». Обновлена ли
   регистрация в налоговой (KPP), неизвестно. Вопрос нотариусу или бухгалтеру.
+- **Формулировка фрагмента двусмысленна.** Текст: «Menyetujui perubahan
+  kedudukan dan alamat lengkap perseroan yang sekarang berkedudukan di
+  Kabupaten Gianyar dengan alamat lengkap di Jalan Penestanan…». Слова «yang
+  sekarang berkedudukan» можно прочитать двояко: «которое теперь находится»
+  (Penestanan — новый адрес) или «которое сейчас находится» (Penestanan —
+  прежний адрес, новый указан дальше, за пределами фрагмента). Михаил
+  говорит, что действующий адрес — Penestanan. Для проверки нужен следующий
+  абзац акта или выписка AHU.
 - У фрагмента акта **неизвестны номер, дата и нотариус**. Нужна первая страница.
 - NIB, KBLI и номер AHU о смене адреса не получены.
 
