@@ -198,23 +198,38 @@ BKPM** (`Tembusan` 9 и 10).
 не предмет соглашения. Тогда п. 19 читается как требование чужого
 имущества и остаётся вымогательством.
 
-## R5. Приглашение к примирению (пп. 11, 15, 25) на фоне предложения полиции
+## R5. Приглашение к примирению (пп. 11, 15, 25)
 
 **Что написано:** п. 11 — «надлежащий путь — `rekonsiliasi` и совместная
 проверка транзакций»; п. 15 — «просим разрешить любой вопрос через
 сверку»; п. 25 — «искать **совместное решение** по вопросу возврата».
 
-**Чем опасно.** На опросе 25.09 полиция **сама спросила**, хотите ли вы
-медиации с Прокофьевым. Это риск, зафиксированный в файлах 37 (A11) и
-47: **`keadilan restoratif`, Pasal 79–88 UU 20/2025**, при исполнении
-прекращает дело.
+### ⚠️ Исправление к первой версии этого пункта
 
-Ваша цель, которую вы формулировали прямо, — не деньги: «чтобы их либо
-как минимум депортировали, а в лучшем случае посадили». Примирение
-закрывает и их дело, и вашу перспективу. А это письмо — **письменное,
-подписанное адвокатом согласие на примирение**, которое следователь
-получит копией (`Tembusan` 7) на следующий день после того, как задал
-вам этот вопрос вслух. Он сошьёт его в дело как ваше согласие на RJ.
+Первая версия ссылалась на то, что **на опросе 25.09 полиция сама
+спросила про медиацию**. Михаил это опроверг: **такого вопроса на опросе
+не задавали**, тема появилась **позже**, уже после принятия показаний, и
+по его пониманию идёт либо от полиции как «новое обновление», либо связана
+с **четвёртым этапом схемы адвоката** (`Penyelidikan → Gelar Perkara →
+Penyidikan → Restorative Justice`). Подробнее — файл **51, раздел 7**.
+
+**Вывод по этому пункту не меняется — обоснование становится жёстче.**
+
+**Чем опасно.** Раз предложения `keadilan restoratif` от следствия пока
+не поступало, то п. 25 этого письма станет **первым документом в деле,
+предлагающим примирение, и его инициатором будет Михаил**. Это хуже, чем
+согласиться на чужое предложение: он сам, за подписью адвоката, просит
+о денежном урегулировании — и следователь получает это копией
+(`Tembusan` 7).
+
+Правовая рамка: **`keadilan restoratif`, Pasal 79–88 UU 20/2025**; по
+**Pasal 80(2)** следователь может предложить RJ уже на `penyelidikan` —
+и письмо, по существу, даёт ему готовое основание это сделать; при
+исполнении соглашения заявление считается отозванным (**Pasal 83**).
+
+Цель, которую Михаил формулировал прямо, — не деньги: «чтобы их либо как
+минимум депортировали, а в лучшем случае посадили». Примирение закрывает
+и их дело, и эту перспективу.
 
 **Как надо.** Разделить два разных предложения:
 - **сверка документов** (`rekonsiliasi`) — это нормально и полезно: она
@@ -226,6 +241,14 @@ BKPM** (`Tembusan` 9 и 10).
 время. КЛИЕНТ **не даёт согласия** на примирение или урегулирование по
 существу уголовного заявления, поданного против него, и настаивает на
 проверке обстоятельств по существу».
+
+### 🔴 Сопутствующий вопрос — к стратегии, а не к письму
+
+Если `Restorative Justice` — это **четвёртый этап плана самого
+адвоката**, то дорожная карта защиты заканчивается там, куда клиент идти
+не хочет. Спросить прямо, до отправки любых писем: **является ли RJ целью
+вашего плана?** Если да — расхождение с задачей клиента надо разрешить
+первым, потому что тогда формулировки пп. 11, 15 и 25 не случайны.
 
 ## R6. Нет п. 4.3 — нет главного аргумента защиты
 
@@ -392,6 +415,8 @@ RI**, **Divisi Propam Polri**, **Kejaksaan Negeri Gianyar**.
 | 10 | **KUHAP 2025 (UU 20/2025)** — применимый процессуальный закон; **Pasal 24(2)(b)**: деяние не является преступлением, как основание прекращения | файл 33 |
 | 11 | Прямой отказ от примирения по существу уголовного заявления | R5 |
 | 12 | Полный перечень требований | R10 |
+| 13 | 🟢 **Он отказался от предложенного полного возврата** (вся сумма, рассрочка на год, устно, на встрече) — значит предметом требования были **не деньги, а доли и должность**. Прямо поддерживает ст. 482/483 и линию «гражданский спор криминализировали» | файл 51, разд. 7 |
+| 14 | Оговорка: предложение возврата — **`itikad baik`**, а не признание созревшего долга; по **п. 4.3** обязанности возврата в тот момент не возникло | файл 51, разд. 7 |
 
 ---
 
@@ -428,7 +453,7 @@ permasalahan pengembalian dana`** (п. 25). Три правки, десять м
 
 ---
 
-# 5. ЗАМЕЧАНИЯ ДЛЯ ЮРИСТОВ — 14 ПУНКТОВ
+# 5. ЗАМЕЧАНИЯ ДЛЯ ЮРИСТОВ — 15 ПУНКТОВ
 
 Нумерация совпадает с индонезийской версией в разделе 6.
 
@@ -447,7 +472,10 @@ Participating Preferred Equity по п. 4.2.
 
 **4.** Убрать п. 25 в части «искать совместное решение по вопросу
 возврата». Добавить прямой отказ от примирения по существу уголовного
-заявления. Полиция уже предлагала медиацию — согласия не давать.
+заявления. Предложения RJ от следствия **ещё не поступало** — значит
+этот пункт сделает КЛИЕНТА первым, кто просит о примирении. Отдельно
+подтвердить, не является ли `Restorative Justice` четвёртым этапом плана
+самого адвоката.
 
 **5.** Разделить п. 25 и пп. a–c: требование об отзыве заявления не
 должно быть обменом на денежный вопрос. Дать правовую оценку риска
@@ -495,9 +523,17 @@ Negeri Gianyar. «Propinsi» → «Provinsi».
 лист `tanda terima` по каждому адресату; подтвердить полномочия
 Oswin Sedekiel Mali по `Surat Kuasa Khusus` от 23.09.2026.
 
+**15.** Добавить пунктом: КЛИЕНТ **устно, на встрече, предлагал
+вернуть всю сумму с рассрочкой в течение года, и получил отказ**. Довод
+работает в обе стороны: подтверждает `itikad baik` КЛИЕНТА и показывает,
+что предметом требования были не деньги, а доли и должность. При этом
+оговорить, что по **п. 4.3** обязанности возврата в тот момент не
+возникло — предложение было добровольным урегулированием, а не
+признанием долга.
+
 ---
 
-# 6. CATATAN / KOREKSI ATAS DRAF SURAT SOMASI — 14 POIN
+# 6. CATATAN / KOREKSI ATAS DRAF SURAT SOMASI — 15 POIN
 
 *Nomor poin di bawah ini sama dengan versi bahasa Rusia pada Bagian 5.*
 
@@ -541,10 +577,16 @@ dan penggelapan hanya mungkin atas barang yang wajib diserahkan. Ini
 **pasal pertahanan utama** dan saat ini tidak disebut sama sekali.
 
 **4. Poin 25 — hapus bagian «mencari Solusi Bersama atas permasalahan
-pengembalian dana».** Pada pemeriksaan tanggal 25 September 2026 penyidik
-**sendiri menanyakan** apakah KLIEN bersedia mediasi. Sesuai **Pasal
-79–88 UU No. 20 Tahun 2025 (KUHAP)**, keadilan restoratif **mengakhiri
-perkara**. Tujuan KLIEN bukan penyelesaian keuangan. Mohon ditambahkan
+pengembalian dana».** Sampai saat ini **belum ada tawaran keadilan
+restoratif dari penyidik**; pada pemeriksaan tanggal 25 September 2026
+pertanyaan mengenai mediasi **tidak diajukan**. Dengan demikian Poin 25
+akan menjadikan **KLIEN sebagai pihak pertama yang meminta perdamaian**
+dalam perkara ini. Sesuai **Pasal 79–88 UU No. 20 Tahun 2025 (KUHAP)**,
+keadilan restoratif **mengakhiri perkara**, dan menurut **Pasal 80(2)**
+penyidik dapat menawarkannya sejak tahap penyelidikan — surat ini justru
+memberi dasar untuk itu. Tujuan KLIEN bukan penyelesaian keuangan. Mohon
+dikonfirmasi pula apakah **Restorative Justice** merupakan tahap keempat
+dari rencana penanganan perkara yang Bapak susun. Mohon ditambahkan
 pernyataan tegas: KLIEN **bersedia** melakukan rekonsiliasi dan
 pemeriksaan dokumen keuangan kapan saja, namun **tidak memberikan
 persetujuan** atas perdamaian atau penyelesaian atas pokok laporan pidana
@@ -636,6 +678,22 @@ kedua (dengan identitas dan alamat), atau dibuatkan **somasi terpisah**.
 - mohon dikonfirmasi apakah **Sdr. Oswin Sedekiel Mali** (tercatat sebagai
   penyusun dokumen pada metadata berkas) termasuk dalam **Surat Kuasa
   Khusus tanggal 23 September 2026**.
+
+**15. Tambahkan satu poin:** KLIEN **secara lisan, dalam pertemuan,
+telah menawarkan pengembalian seluruh dana dengan pembayaran secara
+angsuran dalam jangka waktu satu tahun, dan tawaran tersebut ditolak**
+oleh Sdr. Alexey Prokofyev. Fakta ini bekerja dua arah:
+- membuktikan **`itikad baik`** KLIEN; dan
+- menunjukkan bahwa objek tuntutan sebenarnya **bukan uang, melainkan
+  saham dan jabatan** — apabila tujuannya pengembalian dana, tawaran
+  pengembalian **seluruh** jumlah tentu diterima. Hal ini mendukung
+  uraian Poin 19–22 (Pasal 482/483) dan dalil bahwa hubungan keperdataan
+  telah dikriminalisasi.
+
+Mohon dicantumkan dengan catatan bahwa penawaran tersebut merupakan
+**upaya penyelesaian secara sukarela**, **bukan pengakuan atas utang
+yang telah jatuh tempo** — karena menurut **Pasal 4.3 Perjanjian**
+kewajiban pengembalian pada saat itu belum timbul.
 
 Demikian catatan ini disampaikan. Terima kasih atas perhatian dan
 kerjasamanya.
