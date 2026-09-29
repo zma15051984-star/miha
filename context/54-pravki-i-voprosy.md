@@ -195,7 +195,10 @@ Corp».**
   определена, п. 12.1 не заполнен, п. 9.2 отсылает к несуществующей компании,
   п. 2.1 размыт;
 - форму учёта, по которой к Михаилу сейчас предъявляют претензии, **задал сам
-  заявитель**, и по **п. 6.1** имел к ней онлайн-доступ.
+  заявитель**: **ссылку на таблицу прислал он**, он же **лишил Михаила
+  доступа** и **добавил вместо него других лиц, включая Дмитрия Быкова** —
+  это следователь демонстрировал на опросе 25.09. Сам себя из собственного
+  файла не исключают: права администратора у другой стороны.
 
 ⚠️ **Правовое основание — вопрос адвокату, а не наш вывод:** применим ли
 **KUHPerdata Pasal 1349** (в случае сомнения договор толкуется против того,
@@ -354,8 +357,14 @@ pun dibuat menurut format yang disediakan olehnya.** Dengan demikian:
   tidak diisi**; **Pasal 9.2** menunjuk pengadilan di tempat kedudukan
   perusahaan yang tidak pernah ada; **Pasal 2.1** dirumuskan secara kabur;
 - format pembukuan yang kini dijadikan dasar keberatan terhadap KLIEN
-  **ditentukan sendiri oleh Pelapor**, dan berdasarkan **Pasal 6.1** ia
-  memiliki akses daring terhadapnya.
+  **ditentukan sendiri oleh Pelapor**: **tautan tabel dikirimkan olehnya**,
+  ia pula yang **mencabut akses KLIEN** dan **menambahkan pihak lain,
+  termasuk SDR. Dmitry Bykov** — hal ini ditunjukkan sendiri oleh penyidik
+  pada pemeriksaan tanggal 25 September 2026. Seseorang tidak mengeluarkan
+  dirinya sendiri dari berkasnya sendiri: hak administrator berada pada pihak
+  lawan. Mohon diajukan permohonan agar **riwayat perubahan, daftar pengguna,
+  serta tanggal pencabutan dan pemulihan akses KLIEN** dilampirkan ke dalam
+  berkas perkara.
 
 ⚠️ **Mohon pendapat hukum tertulis lebih dahulu:** apakah **Pasal 1349
 KUHPerdata** (dalam hal keraguan, perjanjian ditafsirkan atas kerugian pihak
@@ -417,7 +426,7 @@ Republik Indonesia** — kedua pihak adalah warga negara Rusia.
 
 | Что | Статус |
 |---|---|
-| Выгрузка таблицы с компьютера | **Не срочно.** Принтскринов с телефона достаточно как фиксации на сегодня. История версий и журнал входов **хранятся на сервере и не исчезают сами** — их можно поднять позже. ⚠️ Единственный риск: если владелец файла удалит его или снова снимет доступ. Поэтому принтскрины сохранить, но бежать за компьютером не надо |
+| Выгрузка таблицы с компьютера | **Не нужна.** Следователь **сам показывал Михаилу историю** на опросе 25.09, и в ней фигурируют Дмитрий Быков и другие лица. Значит история **уже у следствия**. Задача меняется с «добыть» на «закрепить»: ходатайство о приобщении истории изменений, журнала доступа и дат отключения/восстановления доступа Михаила. Компьютер не требуется |
 | Восстановление назначения 800 платежей | **Не делать.** Невозможно и не требуется. Линия защиты — не бухгалтерия, а договор: **обязанности расходовать по согласованным статьям нет ни в одном пункте**. Отсюда и правка 4: убрать из письма приглашение к экспертизе |
 | Переписка про 10 млн на визу | **Не срочно.** Найдётся — пригодится; не найдётся — позиция не меняется |
 | Код `KBLI`, `OSS`, `NIB` | **Документы есть**, проверять не нужно. Использовать формулировку из части 6 |
