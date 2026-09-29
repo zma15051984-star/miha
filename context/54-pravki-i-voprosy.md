@@ -84,9 +84,15 @@ UU 1/2023** — письменно.
 поручительства и обязанности вернуть по первому требованию нет. **Срок
 возврата не наступил.**
 
-**3.** «Компания» по **п. 2.1** подлежала **будущему** учреждению — «при
-открытии компаний **по мере необходимости**». **Она не создавалась.** Раздела
-определений в соглашении нет.
+**3.** 🔴 **В соглашении нет пункта об учреждении компании.** Есть только
+оговорка внутри **п. 2.1** — пять слов «**при открытии компаний по мере
+необходимости**» в середине предложения о цели соглашения. Это
+**обстоятельство, а не обязательство**: ни срока, ни ответственного, ни
+организационной формы, ни уставного капитала, ни наименования, ни
+последствий неоткрытия. **Компания не создавалась.** При этом слово
+«Компания» с большой буквы используется в **пп. 3.1, 3.2, 4.3, 9.2** — там,
+где делятся акции и определяется подсудность, — а **раздела определений в
+соглашении нет вообще**. Компания нигде не идентифицирована.
 
 **4.** **PT IMPRESS YOURSELF CORP — отдельное юридическое лицо** Михаила,
 учреждённое **до** соглашения и ведущее по своему `NIB` **несколько
@@ -101,7 +107,7 @@ UU 1/2023** — письменно.
 
 ---
 
-# ЧАСТЬ 3. ПРАВКИ В ПИСЬМЕ — ДЕВЯТЬ ПУНКТОВ
+# ЧАСТЬ 3. ПРАВКИ В ПИСЬМЕ — ДЕСЯТЬ ПУНКТОВ
 
 Нумерация совпадает с индонезийской версией в части 5.
 
@@ -169,6 +175,26 @@ Corp».**
 присвоить исходящий номер, «Propinsi» → «Provinsi», указать, что 7
 календарных дней даются на **письменный ответ с даты получения**.
 
+## 🟢 Добавочная — усиливает без риска
+
+**10. Добавить пункт о незавершённости самого соглашения.**
+**П. 12.1: «Применимое право: [указать страну]» — поле не заполнено.**
+**П. 9.2:** споры разрешаются «в суде **по месту регистрации Компании**» —
+а Компания не существует, значит подсудность **неопределима**.
+
+**Написать:** соглашение **не определяет ни применимого права, ни
+подсудности**; при этом заявитель требует уголовно-правовой оценки
+отношений, договорная природа которых сторонами даже не доурегулирована.
+Это усиливает довод, что спор **гражданско-правовой и неурегулированный**,
+а не уголовный.
+
+⚠️ **Про подписи в письмо не писать.** У Партнёра в соглашении нет ни даты,
+ни подписи. Это **резервный аргумент**: заявив, что документ не подписан, мы
+уходим в линию ничтожности, которая разрушает пп. 4.3, 3.1/3.2, 5.1,
+5.3/5.4, 9.2, 8.1 и превращает «срок возврата не наступил» в «должен был
+вернуть сразу» через **ст. 1359 KUHPerdata**. Файл **39**. Держать в
+резерве, не упоминать.
+
 ---
 
 # ЧАСТЬ 4. РАССЫЛКА — ЧТО УБРАТЬ, ЧТО ИСПРАВИТЬ, ЧТО ДОБАВИТЬ
@@ -203,6 +229,7 @@ Corp».**
 | **Kompolnas** (Комиссия по надзору за полицией) | Профильный орган по жалобам на работу полиции. Ровно то, для чего адвокат хотел «вышестоящую инстанцию» |
 | **Ombudsman RI**, представительство на Бали | Надзор за качеством публичных услуг, включая приём и рассмотрение обращений |
 | **Divisi Propam Polda Bali** | Внутренний надзор по служебным нарушениям |
+| **Посольство РФ в Индонезии** | Обе стороны — граждане РФ. В старом проекте заявления (файл 13) этот адресат был; в сомаси его нет. Рассмотреть |
 
 Эти три дают ту же публичность и **не несут риска для Михаила**: они смотрят
 на действия полиции, а не на его компанию.
@@ -213,7 +240,7 @@ Corp».**
 
 ---
 
-# ЧАСТЬ 5. CATATAN UNTUK KUASA HUKUM — 9 POIN
+# ЧАСТЬ 5. CATATAN UNTUK KUASA HUKUM — 10 POIN
 
 *Nomor poin sama dengan versi bahasa Rusia pada Bagian 3.*
 
@@ -288,6 +315,28 @@ berikan **nomor surat**; ejaan «Propinsi» → **«Provinsi»**; tegaskan bahwa
 tertulis**, dan tidak adanya jawaban dianggap penolakan; lampirkan **lembar
 tanda terima** untuk setiap penerima Tembusan.
 
+## 🟢 Tambahan
+
+**10. Tambahkan poin mengenai belum lengkapnya Perjanjian itu sendiri.**
+**Pasal 12.1: «Hukum yang berlaku: [sebutkan negara]» — kolom tersebut tidak
+diisi.** **Pasal 9.2:** sengketa diselesaikan «di pengadilan **di tempat
+kedudukan Perusahaan**» — sedangkan Perusahaan tersebut tidak pernah ada,
+sehingga **kompetensi pengadilan tidak dapat ditentukan**.
+
+Mohon dirumuskan: Perjanjian **tidak menentukan hukum yang berlaku maupun
+forum penyelesaian sengketa**, sementara Pelapor menuntut penilaian pidana
+atas hubungan yang sifat keperdataannya bahkan belum selesai diatur oleh para
+pihak. Hal ini memperkuat dalil bahwa sengketa ini **bersifat keperdataan dan
+belum diatur sepenuhnya**, bukan pidana.
+
+⚠️ **Mengenai tanda tangan — mohon TIDAK dicantumkan dalam surat.** Pada
+Perjanjian, pihak Mitra tidak mencantumkan tanggal maupun tanda tangan. Ini
+adalah **argumen cadangan**: mendalilkan bahwa dokumen tidak ditandatangani
+berarti masuk ke jalur kebatalan perjanjian, yang justru meruntuhkan Pasal
+4.3, 3.1/3.2, 5.1, 5.3/5.4, 9.2 dan 8.1, serta mengubah dalil «jatuh tempo
+belum tiba» menjadi «wajib mengembalikan seketika» melalui **Pasal 1359
+KUHPerdata**.
+
 ## Tembusan
 
 **Mohon dihapus:** angka **9 (Kanwil Imigrasi Provinsi Bali)** dan angka
@@ -301,8 +350,9 @@ mengenai keberadaan dan kegiatan SDR. Alexey Prokofyev dan SDR. Dmitry Bykov.
 berada di Kabupaten Gianyar.
 
 **Mohon ditambahkan:** **Komisi Kepolisian Nasional (Kompolnas)**,
-**Ombudsman Republik Indonesia** perwakilan Bali, dan **Divisi Propam Polda
-Bali**.
+**Ombudsman Republik Indonesia** perwakilan Bali, **Divisi Propam Polda
+Bali**, dan mohon dipertimbangkan **Kedutaan Besar Federasi Rusia di
+Republik Indonesia** — kedua pihak adalah warga negara Rusia.
 
 ---
 
