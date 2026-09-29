@@ -107,7 +107,7 @@ UU 1/2023** — письменно.
 
 ---
 
-# ЧАСТЬ 3. ПРАВКИ В ПИСЬМЕ — ДЕСЯТЬ ПУНКТОВ
+# ЧАСТЬ 3. ПРАВКИ В ПИСЬМЕ — ОДИННАДЦАТЬ ПУНКТОВ
 
 Нумерация совпадает с индонезийской версией в части 5.
 
@@ -188,12 +188,27 @@ Corp».**
 Это усиливает довод, что спор **гражданско-правовой и неурегулированный**,
 а не уголовный.
 
-⚠️ **Про подписи в письмо не писать.** У Партнёра в соглашении нет ни даты,
-ни подписи. Это **резервный аргумент**: заявив, что документ не подписан, мы
-уходим в линию ничтожности, которая разрушает пп. 4.3, 3.1/3.2, 5.1,
-5.3/5.4, 9.2, 8.1 и превращает «срок возврата не наступил» в «должен был
-вернуть сразу» через **ст. 1359 KUHPerdata**. Файл **39**. Держать в
-резерве, не упоминать.
+**11. Добавить: соглашение составлено Прокофьевым, Михаил правок не вносил.**
+Учётные таблицы — **тоже его формы**. Отсюда:
+
+- все неясности документа — **неясности составителя**: «Компания» нигде не
+  определена, п. 12.1 не заполнен, п. 9.2 отсылает к несуществующей компании,
+  п. 2.1 размыт;
+- форму учёта, по которой к Михаилу сейчас предъявляют претензии, **задал сам
+  заявитель**, и по **п. 6.1** имел к ней онлайн-доступ.
+
+⚠️ **Правовое основание — вопрос адвокату, а не наш вывод:** применим ли
+**KUHPerdata Pasal 1349** (в случае сомнения договор толкуется против того,
+кто выговорил условие) и **Pasal 1342–1351** об общем толковании. Просить
+письменную оценку до внесения в письмо.
+
+🟢 **И справка по подписям — прежняя оговорка снята.** Проверено 29.09: в
+документе стоят **обе подписи**, рукописные, векторные (523 кривые Безье);
+инкрементальных обновлений в файле нет, значит подписи присутствовали **в
+момент создания** 02.06.2025 и документ после не менялся. Линия «договор не
+подписан» закрыта — и это хорошо, она вела в ничтожность, разрушающую
+пп. 4.3, 3.1/3.2, 5.1, 5.3/5.4, 9.2, 8.1 (файл **39**). **Действительность
+соглашения подтверждена, а защита стоит именно на ней.**
 
 ---
 
@@ -240,7 +255,7 @@ Corp».**
 
 ---
 
-# ЧАСТЬ 5. CATATAN UNTUK KUASA HUKUM — 10 POIN
+# ЧАСТЬ 5. CATATAN UNTUK KUASA HUKUM — 11 POIN
 
 *Nomor poin sama dengan versi bahasa Rusia pada Bagian 3.*
 
@@ -329,13 +344,32 @@ atas hubungan yang sifat keperdataannya bahkan belum selesai diatur oleh para
 pihak. Hal ini memperkuat dalil bahwa sengketa ini **bersifat keperdataan dan
 belum diatur sepenuhnya**, bukan pidana.
 
-⚠️ **Mengenai tanda tangan — mohon TIDAK dicantumkan dalam surat.** Pada
-Perjanjian, pihak Mitra tidak mencantumkan tanggal maupun tanda tangan. Ini
-adalah **argumen cadangan**: mendalilkan bahwa dokumen tidak ditandatangani
-berarti masuk ke jalur kebatalan perjanjian, yang justru meruntuhkan Pasal
-4.3, 3.1/3.2, 5.1, 5.3/5.4, 9.2 dan 8.1, serta mengubah dalil «jatuh tempo
-belum tiba» menjadi «wajib mengembalikan seketika» melalui **Pasal 1359
-KUHPerdata**.
+**11. Tambahkan: Perjanjian disusun sepenuhnya oleh Sdr. Alexey Prokofyev**,
+dan KLIEN tidak melakukan perubahan apa pun terhadapnya. **Tabel pembukuan
+pun dibuat menurut format yang disediakan olehnya.** Dengan demikian:
+
+- segala ketidakjelasan dalam Perjanjian merupakan **ketidakjelasan pihak
+  penyusun**: istilah «Perusahaan» dipakai pada Pasal 3.1, 3.2, 4.3 dan 9.2
+  namun **tidak pernah didefinisikan** (tidak ada bab definisi); **Pasal 12.1
+  tidak diisi**; **Pasal 9.2** menunjuk pengadilan di tempat kedudukan
+  perusahaan yang tidak pernah ada; **Pasal 2.1** dirumuskan secara kabur;
+- format pembukuan yang kini dijadikan dasar keberatan terhadap KLIEN
+  **ditentukan sendiri oleh Pelapor**, dan berdasarkan **Pasal 6.1** ia
+  memiliki akses daring terhadapnya.
+
+⚠️ **Mohon pendapat hukum tertulis lebih dahulu:** apakah **Pasal 1349
+KUHPerdata** (dalam hal keraguan, perjanjian ditafsirkan atas kerugian pihak
+yang meminta diperjanjikan sesuatu) dan **Pasal 1342–1351** dapat diterapkan
+di sini.
+
+🟢 **Catatan mengenai tanda tangan.** Pemeriksaan ulang 29 September 2026
+menunjukkan bahwa **kedua tanda tangan tercantum** dalam Perjanjian, berupa
+goresan tangan (vektor, 523 kurva Bézier); berkas tidak memiliki pembaruan
+inkremental, sehingga tanda tangan **sudah ada pada saat berkas dibuat**
+(2 Juni 2025) dan dokumen tidak pernah diubah setelahnya. Dalil «Perjanjian
+tidak ditandatangani» dengan demikian tertutup — dan itu menguntungkan, sebab
+dalil tersebut akan meruntuhkan Pasal 4.3, 3.1/3.2, 5.1, 5.3/5.4, 9.2 dan
+8.1. **Keabsahan Perjanjian justru merupakan dasar pembelaan KLIEN.**
 
 ## Tembusan
 
