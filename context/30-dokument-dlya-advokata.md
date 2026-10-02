@@ -84,7 +84,7 @@
 | Роль | Данные |
 |---|---|
 | **Доверитель** | MIKHAIL ZAVIALOV, гражданин РФ, род. 15.05.1984. Паспорт **759158896** до 31.08.2028. **ITAS № 2C2C2C23EB036156-B**, инвесторский, до 19.03.2027, выдан 10.04.2025 Kantor Imigrasi Kelas I Denpasar. Гарант — **PT IMPRESS YOURSELF CORP** (инвестор и директор). Адрес: Jalan Pacekan No. 10, Banjar Penestanan Kaja, Desa Sayan, Ubud, Gianyar. +62 859 6064 4010, zma15051984@gmail.com |
-| **Терлапор I** | ALEXEY PROKOFYEV, гражданин РФ, паспорт **77 1482731** от 27.09.2023. +62 821 4642 6911 / +7 985 220 0210, aprok@gmail.com. **Виза удалённого работника.** Адрес: **Umah Kendra Villa**, Jalan Penestanan Kaja, Desa Sayan, Ubud, Gianyar — указан им самим в обращении |
+| **Терлапор I** | ALEXEY PROKOFYEV, гражданин РФ, паспорт **77 1482731** от 27.09.2023. +62 821 4642 6911 / +7 985 220 0210, aprok@gmail.com ⚠️НЕРАБОЧИЙ. **Виза удалённого работника.** Адрес: **Umah Kendra Villa**, Jalan Penestanan Kaja, Desa Sayan, Ubud, Gianyar — указан им самим в обращении |
 | **Терлапор II** | DMITRY BYKOV, гражданин РФ. **Виза удалённого работника** |
 
 ---
@@ -398,7 +398,7 @@ untuk pengajuan.
 | Kedudukan | Keterangan |
 |---|---|
 | **Klien** | MIKHAIL ZAVIALOV, WN Rusia, lahir 15-05-1984. Paspor **759158896** s/d 31-08-2028. **ITAS No. 2C2C2C23EB036156-B** (ITAS Investor) s/d 19-03-2027, diterbitkan 10-04-2025 oleh Kantor Imigrasi Kelas I Denpasar. Penjamin: **PT IMPRESS YOURSELF CORP** (klien selaku investor dan direktur). Alamat: Jalan Pacekan No. 10, Banjar Penestanan Kaja, Desa Sayan, Ubud, Gianyar. +62 859 6064 4010, zma15051984@gmail.com |
-| **Terlapor I** | ALEXEY PROKOFYEV, WN Rusia, paspor **77 1482731** (27-09-2023). +62 821 4642 6911 / +7 985 220 0210, aprok@gmail.com. **Visa remote worker.** Alamat: **Umah Kendra Villa**, Jalan Penestanan Kaja, Desa Sayan, Ubud, Gianyar — sebagaimana disebutkan sendiri dalam pengaduannya |
+| **Terlapor I** | ALEXEY PROKOFYEV, WN Rusia, paspor **77 1482731** (27-09-2023). +62 821 4642 6911 / +7 985 220 0210, aprok@gmail.com ⚠️НЕРАБОЧИЙ. **Visa remote worker.** Alamat: **Umah Kendra Villa**, Jalan Penestanan Kaja, Desa Sayan, Ubud, Gianyar — sebagaimana disebutkan sendiri dalam pengaduannya |
 | **Terlapor II** | DMITRY BYKOV, WN Rusia. **Visa remote worker** |
 
 ---

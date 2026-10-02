@@ -98,7 +98,7 @@ II. IDENTITAS TERLAPOR
        Kewarganegaraan  : Federasi Rusia
        Nomor Paspor     : 77 1482731, diterbitkan 27-09-2023
        Telepon          : +62 821 4642 6911 / +7 985 220 0210
-       Email            : aprok@gmail.com
+       Email            : aprok@gmail.com ⚠️НЕРАБОЧИЙ
        Alamat           : Umah Kendra Villa, Jalan Penestanan Kaja,
                           Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar
                           (alamat sebagaimana disebutkan sendiri oleh

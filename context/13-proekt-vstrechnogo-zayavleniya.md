@@ -188,7 +188,7 @@ PERIHAL: Laporan Dugaan Tindak Pidana Pemerasan (Pasal 482 UU No. 1 Tahun
 PELAPOR:
 Nama            : MIKHAIL ZAVIALOV (Завьялов Михаил Александрович)
 Kewarganegaraan : Federasi Rusia
-Paspor          : 75 9158895, diterbitkan 31.08.2018
+Paspor          : 759158896, diterbitkan 31.08.2018
 Izin tinggal    : [KITAS/visa — тип, номер, срок]
 Alamat          : [адрес]
 Kontak          : +6285960644010 / zma15051984@gmail.com
@@ -196,7 +196,7 @@ Kedudukan       : [ЗАПОЛНИТЬ ТОЛЬКО ПОСЛЕ ПРОВЕРКИ �
 
 TERLAPOR:
 1. ALEXEY PROKOFYEV (Прокофьев Алексей Владимирович), WN Rusia,
-   paspor 77 1482731, +6282146426911, aprok@gmail.com,
+   paspor 77 1482731, +6282146426911, aprok@gmail.com ⚠️НЕРАБОЧИЙ,
    status keimigrasian: visa remote worker
 2. DMITRY BYKOV (Быков Дмитрий), WN Rusia,
    status keimigrasian: visa remote worker

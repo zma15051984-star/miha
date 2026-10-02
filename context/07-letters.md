@@ -45,7 +45,7 @@
 ```
 Kepada Yth. Tim Hukum,
 
-Perkenalkan, saya MIKHAIL ZAVIALOV, warga negara Rusia, paspor 75 9158895,
+Perkenalkan, saya MIKHAIL ZAVIALOV, warga negara Rusia, paspor 759158896,
 pemegang [KITAS/visa — тип и номер], berdomisili di Bali sejak [год].
 
 Saya membutuhkan pendampingan hukum SEGERA. Jadwal pemeriksaan:

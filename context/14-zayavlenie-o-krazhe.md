@@ -55,7 +55,7 @@ Yang bertanda tangan di bawah ini:
 Nama              : MIKHAIL ZAVIALOV
 Tempat/Tgl Lahir  : [указать]
 Kewarganegaraan   : Federasi Rusia
-Nomor Paspor      : 75 9158895, diterbitkan 31 Agustus 2018
+Nomor Paspor      : 759158896, diterbitkan 31 Agustus 2018
 Izin Tinggal      : [KITAS/visa — тип, номер, срок действия]
 Alamat            : [адрес проживания]
 Telepon           : +62 859 6064 4010
